@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "module": "ES6",
+        "target": "ES5",
+        "outDir": "dist",
+        "rootDir": "src",
+        "downlevelIteration": true,
+       // "watch": true,
+        "moduleResolution": "Node16",
+    },
+    "exclude": ["node_modules"]
+}
